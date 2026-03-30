@@ -1,4 +1,4 @@
-# Digital Literacy Project Report
+# Digital Literacy 
 
 ## Overview
 This project focuses on developing digital literacy skills, including safe internet usage, effective communication, and awareness of cyber threats. It covers practical tasks using various digital tools and platforms.
